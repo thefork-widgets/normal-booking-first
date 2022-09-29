@@ -1,3 +1,3 @@
-# Normal_booking_first
+# normal-booking-first
 
-How to put "normal booking" above in first position.
+How to move the "normal booking" at the top in the preset menu list
